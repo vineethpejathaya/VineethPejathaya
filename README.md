@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vineeth Pejathaya
-- 👀 I’m interested in ...
+- 👀 I’m interested in learning technologies
 - 🌱 I’m currently learning FullStack Web Development..
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Youtube
 - 📫 How to reach me vineethpejathaya@gmail.com
 .
 
